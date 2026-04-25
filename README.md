@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ConnieXY
-- 🌱 I’m currently learning vibe code and just begin this journey
+- 🌱 I’m vibe coding and just begin this journey
 - Happy to be here
 
 <!---
